@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning flutter with dart
 - 💞️ I’m looking to collaborate on mobile app dev
-- 📫 How to reach me; instagram @milanzij4
+- 📫 How to reach me; twitter @milanzij4
 
 <!---
 Milanzij4/Milanzij4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
